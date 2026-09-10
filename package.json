@@ -1,0 +1,15 @@
+{
+  "name": "wanling-hengmao-origin-docs",
+  "version": "1.0.0",
+  "description": "衡元宙 · 锚点共生文明设定文库（VitePress 静态站点，适配 Gitee Pages）",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "docs:dev": "node scripts/sync-constitution.mjs && vitepress dev docs",
+    "docs:build": "node scripts/sync-constitution.mjs && vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.0"
+  }
+}

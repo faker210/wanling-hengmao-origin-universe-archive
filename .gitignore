@@ -1,0 +1,14 @@
+# 依赖与本地缓存（不入库）
+node_modules/
+.vitepress/cache/
+npm-debug.log*
+
+# 调试/临时残留（不入库）
+.repro2/
+preview.log
+download.txt
+ru_list.txt
+新建 文本文档.txt
+
+# 注意：site/（构建产物）与 docs/.vitepress/dist 需要提交到仓库，
+# Gitee Pages 免费版不支持构建命令，直接部署构建产物。
