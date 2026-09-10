@@ -186,6 +186,84 @@ git push gitee master:main   # 推送后进入 Gitee Pages 页面点「更新」
 
 ---
 
+## 五·二、腾讯云 EdgeOne Makers 部署（方案 A：云端自动构建）
+
+### 为什么之前会失败（大白话）
+
+EdgeOne 云端执行流程是：克隆仓库 → 装依赖 → 按你填的**构建命令**打包 → 把**输出目录**里的文件发布出去。
+
+之前失败是因为三个"对不上"：
+
+| 问题 | 原因 | 已修复 |
+|---|---|---|
+| 构建命令 `npm run build` 报错 | package.json 里根本没有 `build` 这条命令，只有 `docs:build` | 已新增 `build` 命令 |
+| 构建完找不到产物 | 平台默认找 `dist` 目录，而 VitePress 产物在 `site/` | 已让 `build` 直接输出到 `dist/` |
+| 就算打包成功页面也打不开 | 链接前缀是 `/wanling-hengmao-origin-universe-archive/`（Gitee 专用），EdgeOne 域名没有这个路径 | 已让 `build` 用根路径（BASE=/）重新构建 |
+
+> 日志里的 `No server-handler detected, generating routes.json for pure project` 是平台把项目
+> 识别为"纯静态网站"的**正常提示**，不是错误。真正的报错是它随后执行 `npm run build`
+> 时找不到命令。
+
+### 云端构建怎么配（照抄）
+
+在 EdgeOne Makers 控制台创建项目（关联 Gitee 仓库，分支 `main`）：
+
+| 配置项 | 填什么 |
+|---|---|
+| 框架预设 | 选 **Other**（下拉里没有 VitePress 就选这个） |
+| 根目录 | 留空或填 `/` |
+| 构建命令 | `npm run build` |
+| 安装命令 | `npm install` |
+| 输出目录 | `dist` |
+| Node 版本 | 选 **18** 或更高（20/22 都行） |
+
+配置完点部署。每次改完内容：本地 `npm run docs:build` 生成 Gitee 版 `site/`、
+`npm run build` 生成 EdgeOne 版 `dist/`（两条命令各自独立，互不影响），
+推送代码后 EdgeOne 会自动重新构建。
+
+---
+
+## 五·三、方案 B：本地打包，手动上传（如果云端构建还是不行）
+
+完全绕开云端构建，把做好的网页文件直接传到 EdgeOne。
+
+### 第 1 步：本地装 Node.js（只装一次）
+
+1. 打开官网 <https://nodejs.org/zh-cn>，下载 **LTS（长期支持版）**，双击安装，一路"下一步"。
+2. 装完打开"命令提示符"或"PowerShell"，输入下面命令回车，能显示版本号就装好了：
+
+```powershell
+node -v
+```
+
+### 第 2 步：生成网页文件
+
+```powershell
+cd C:\Users\Administrator\Desktop\anchor-release
+npm install          # 装依赖（第一次要等一会儿）
+npm run build        # 生成网页文件，存放在 dist/ 文件夹
+```
+
+跑完看到 `✅ EdgeOne 构建完成：dist/ 已生成` 就是成功。
+
+### 第 3 步：把 dist 文件夹打包
+
+1. 打开文件资源管理器，进到 `C:\Users\Administrator\Desktop\anchor-release\dist`
+2. **选中 dist 文件夹里的所有内容**（Ctrl+A），右键 → 发送到 → 压缩文件夹（zip）
+3. 得到 `dist.zip`
+
+### 第 4 步：上传到 EdgeOne
+
+1. 打开 EdgeOne Makers 控制台，新建项目
+2. 选 **直接上传**（不选 Git 仓库）方式：把 `dist.zip` 拖进上传区，或点选择文件
+3. 项目名称随便填，加速区域选默认，点 **开始部署**
+4. 等 1~2 分钟，部署成功后会给你一个访问链接，形如
+   `https://xxxx.edgeone.app/`，点开就是网站
+
+> 以后更新内容：重新跑 `npm run build`，重新打包 dist，再上传覆盖即可。
+
+---
+
 ## 六、本次交付物清单（对应任务要求）
 
 | 要求 | 文件 |

@@ -7,7 +7,8 @@
   "scripts": {
     "docs:dev": "node scripts/sync-constitution.mjs && vitepress dev docs",
     "docs:build": "node scripts/sync-constitution.mjs && vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "build": "node scripts/edgeone-build.mjs"
   },
   "devDependencies": {
     "vitepress": "^1.6.0"

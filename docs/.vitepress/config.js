@@ -256,7 +256,12 @@ export default defineConfig({
   cleanUrls: false,
   ignoreDeadLinks: true,
   srcDir: docsDir,
-  outDir: path.join(repoRoot, 'site'),
+  // 产物目录：默认仓库根/site（Gitee Pages 部署目录）；
+  // 腾讯云 EdgeOne 构建（npm run build）时由 scripts/edgeone-build.mjs 设置
+  // VP_OUTDIR=dist，产物直接输出到仓库根/dist，互不污染。
+  outDir: process.env.VP_OUTDIR
+    ? path.resolve(repoRoot, process.env.VP_OUTDIR)
+    : path.join(repoRoot, 'site'),
 
   head: [
     ['meta', { name: 'keywords', content: '衡元宙,锚点共生文明,万灵衡锚本源宙,掠夺式修炼体系,万族共进,升维,设定文库' }],
