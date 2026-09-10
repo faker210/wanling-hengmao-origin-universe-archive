@@ -140,3 +140,291 @@ B圆满宇宙：锚点共生文明扎根的本源衡元宙，以开发增量代�
 三位诸天至尊沉默不语。
 他们手握撼动宇宙的力量，可面对这套完整、自洽、裹挟无数生灵与世界一起前进的文明体系，单纯的武力，已经失去了以往一往无前的威力。
 他们站在了命运的岔路口：是继续走那条熟悉、孤独、有上限的掠夺之路，还是选择放下独占一切的执念，加入万族集体进化的大道。
+
+# 万灵衡锚本源宙 · 官方术语对照表（15语种定制版｜全球传播专用）
+严格匹配指定语种顺序，统一译名、全网唯一标准，适配 Medium / Reddit / 全球多平台传播
+
+---
+
+## 1. 万灵衡锚本源宙（核心世界观名称）
+1. 中文：万灵衡锚本源宙
+2. 英语：All-Spirit Balance Anchor Origin Universe
+3. 法语：Univers Originel d'Ancre d'Équilibre des Esprits
+4. 俄语：Вселенная Источника Равновесного Якоря Всех Духов
+5. 印地语：सभी आत्माओं का संतुलन लंगर मूल ब्रह्मांड
+6. 西班牙语：Universo Origen de Ancla de Equilibrio de Todos los Espíritus
+7. 阿拉伯语：كون أصل مرساة التوازن لجميع الأرواح
+8. 孟加拉语：সব আত্মার সামঞ্জস্য নোঙর মূল বিশ্বব্রহ্মাণ্ড
+9. 葡萄牙语：Universo Original da Âncora de Equilíbrio de Todos os Espíritos
+10. 印尼语：Alam Semesta Asal Jangkar Keseimbangan Segala Roh
+11. 乌尔都语：تمام روحوں کا توازن لنگر اصل کائنات
+12. 日语：万霊衡錨本源宙（ばんれいこうびょうほんげんちゅう）
+13. 越南语：Vũ Trụ Nguyên Bản Mỏ Neo Cân Bằng Vạn Linh
+14. 斯瓦希里语：Ulimwengu wa Asili wa Nanga ya Usawa wa Roho Zote
+15. 德语：All-Geister-Gleichgewicht-Anker-Ur-Universum
+
+---
+
+## 2. 衡元宙（官方简称）
+1. 中文：衡元宙
+2. 英语：Balance Origin Universe
+3. 法语：Univers d'Origine d'Équilibre
+4. 俄语：Вселенная Равновесного Источника
+5. 印地语：संतुलन मूल ब्रह्मांड
+6. 西班牙语：Universo Origen de Equilibrio
+7. 阿拉伯语：كون أصل التوازن
+8. 孟加拉语：সামঞ্জস্য মূল বিশ্বব্রহ্মাণ্ড
+9. 葡萄牙语：Universo Original de Equilíbrio
+10. 印尼语：Alam Semesta Asal Keseimbangan
+11. 乌尔都语：توازن اصل کائنات
+12. 日语：衡元宙（こうげんちゅう）
+13. 越南语：Hành Nguyên Vũ Trụ
+14. 斯瓦希里语：Ulimwengu wa Asili wa Usawa
+15. 德语：Gleichgewicht-Ur-Universum
+
+---
+
+## 3. 锚点共生文明
+1. 中文：锚点共生文明
+2. 英语：Anchor Symbiotic Civilization
+3. 法语：Civilisation Symbiotique d'Ancre
+4. 俄语：Симбиотическая Цивилизация Якорных Точек
+5. 印地语：लंगर सहजीवी सभ्यता
+6. 西班牙语：Civilización Simbiótica de Ancla
+7. 阿拉伯语：حضارة مرساة التكافل
+8. 孟加拉语：নোঙর সহজীবী সভ্যতা
+9. 葡萄牙语：Civilização Simbiótica de Âncora
+10. 印尼语：Peradaban Simbiotik Jangkar
+11. 乌尔都语：لنگر ہمزیست تہذیب
+12. 日语：錨点共生文明（びょうてんきょうせいぶんめい）
+13. 越南语：Văn Minh Cộng Sinh Mỏ Neo
+14. 斯瓦希里语：Ustaarabu wa Ushirikiano wa Nanga
+15. 德语：Anker-Symbiotische Zivilisation
+
+---
+
+## 4. 阿赖耶锚点
+1. 中文：阿赖耶锚点
+2. 英语：Ālaya Anchor
+3. 法语：Ancre Ālaya
+4. 俄语：Якорь Алая
+5. 印地语：आलय लंगर
+6. 西班牙语：Ancla Ālaya
+7. 阿拉伯语：مرساة الآيا
+8. 孟加拉语：আলয় নোঙর
+9. 葡萄牙语：Âncora Ālaya
+10. 印尼语：Jangkar Ālaya
+11. 乌尔都语：آلایہ لنگر
+12. 日语：阿頼耶錨点（あらやびょうてん）
+13. 越南语：Mỏ Neo A-lại-da
+14. 斯瓦希里语：Nanga ya Ālaya
+15. 德语：Ālaya-Anker
+
+---
+
+## 5. 葡萄藤嵌套宇宙结构
+1. 中文：葡萄藤嵌套宇宙结构
+2. 英语：Grapevine Nested Universe Structure
+3. 法语：Structure d'Univers Emboîté en Vigne
+4. 俄语：Виноградная Лоза — Вложенная Структура Вселенной
+5. 印地语：अंगूर बेल नेस्टेड ब्रह्मांड संरचना
+6. 西班牙语：Estructura de Universo Anidado en Parra
+7. 阿拉伯语：هيكل كون متداخل على شكل كرمة العنب
+8. 孟加拉语：আঙ্গুর লতা নেস্টেড বিশ্বব্রহ্মাণ্ড কাঠামো
+9. 葡萄牙语：Estrutura de Universo Aninhado em Videira
+10. 印尼语：Struktur Alam Semesta Bersarang Tanaman Rambat
+11. 乌尔都语：انگور کی بیل سے جڑی کائنات کا ڈھانچہ
+12. 日语：葡萄蔓入れ子宇宙構造（ぶどうづるいれこうちゅうこうぞう）
+13. 越南语：Cấu Trúc Vũ Trụ Lồng Ghép Hình Dây Leo
+14. 斯瓦希里语：Muundo wa Ulimwengu Uliowekwa ndani ya Mzabibu
+15. 德语：Weinreben-verschachtelte Universumsstruktur
+
+---
+
+## 6. 存量掠夺体系
+1. 中文：存量掠夺体系
+2. 英语：Stock Plunder System
+3. 法语：Système de Pillage de Stock
+4. 俄语：Система Разграбления Запасов
+5. 印地语：स्टॉक लूट प्रणाली
+6. 西班牙语：Sistema de Saqueo de Existencias
+7. 阿拉伯语：نظام نهب المخزون
+8. 孟加拉语：স্টক লুট প্রণালী
+9. 葡萄牙语：Sistema de Saqueio de Estoque
+10. 印尼语：Sistem Perampasan Stok
+11. 乌尔都语：اسٹاک لوٹ کا نظام
+12. 日语：存量略奪体系（じょうりょうりゃくだつたいけい）
+13. 越南语：Hệ Thống Cướp Bóc Tồn Lượng
+14. 斯瓦希里语：Mfumo wa Uporaji wa Hifadhi
+15. 德语：Bestandsplünderungssystem
+
+---
+
+## 7. 增量共生体系
+1. 中文：增量共生体系
+2. 英语：Incremental Symbiosis System
+3. 法语：Système de Symbiose Incrémentale
+4. 俄语：Инкрементальная Симбиотическая Система
+5. 印地语：वृद्धि सहजीवन प्रणाली
+6. 西班牙语：Sistema de Simbiosis Incremental
+7. 阿拉伯语：نظام التكافل الزيادي
+8. 孟加拉语：বর্ধন সহজীবন প্রণালী
+9. 葡萄牙语：Sistema de Simbiose Incremental
+10. 印尼语：Sistem Simbiosis Inkremental
+11. 乌尔都语：بڑھتی ہوئی ہمزیست کا نظام
+12. 日语：増量共生体系（ぞうりょうきょうせいたいけい）
+13. 越南语：Hệ Thống Cộng Sinh Tăng Trưởng
+14. 斯瓦希里语：Mfumo wa Ushirikiano wa Kuongezeka
+15. 德语：Inkrementelles Symbiose-System
+
+---
+
+## 8. 宇宙因果报备机制
+1. 中文：宇宙因果报备机制
+2. 英语：Cosmic Causality Reporting Mechanism
+3. 法语：Mécanisme de Déclaration de Causalité Cosmique
+4. 俄语：Механизм Отчётности Космической Причинности
+5. 印地语：ब्रह्मांडीय कारण रिपोर्टिंग तंत्र
+6. 西班牙语：Mecanismo de Reporte de Causalidad Cósmica
+7. 阿拉伯语：آلية الإبلاغ عن السببية الكونية
+8. 孟加拉语：বিশ্বব্রহ্মাণ্ডীয় কারণ রিপোর্টিং প্রক্রিয়া
+9. 葡萄牙语：Mecanismo de Relato de Causalidade Cósmica
+10. 印尼语：Mekanisme Pelaporan Kausalitas Kosmik
+11. 乌尔都语：کائناتی وجہ کی رپورٹنگ کا طریقہ کار
+12. 日语：宇宙因果届出機構（うちゅういんがとどけできこう）
+13. 越南语：Cơ Chế Báo Cáo Nhân Quả Vũ Trụ
+14. 斯瓦希里语：Utaratibu wa Kuripoti Sababu za Ulimwengu
+15. 德语：Kosmischer Kausalitätsberichtsmechanismus
+
+---
+
+## 9. 虚实分离法则
+1. 中文：虚实分离法则
+2. 英语：Virtual-Real Separation Law
+3. 法语：Loi de Séparation Virtuel-Réel
+4. 俄语：Закон Разделения Виртуального и Реального
+5. 印地语：आभासी-वास्तविक पृथक्करण नियम
+6. 西班牙语：Ley de Separación Virtual-Real
+7. 阿拉伯语：قانون الفصل بين الافتراضي والحقيقي
+8. 孟加拉语：ভার্চুয়াল-বাস্তব বিভাজন আইন
+9. 葡萄牙语：Lei de Separação Virtual-Real
+10. 印尼语：Hukum Pemisahan Virtual-Real
+11. 乌尔都语：مجازی-حقیقی علیحدگی کا قانون
+12. 日语：虚実分離法則（きょじつぶんりほうそく）
+13. 越南语：Quy Luật Phân Tách Ảo Thực
+14. 斯瓦希里语：Sheria ya Kutenganisha Virtual na Halisi
+15. 德语：Trennungsgesetz von Virtuell und Real
+
+---
+
+## 10. 三百锚点文明宪章
+1. 中文：三百锚点文明宪章
+2. 英语：300 Anchors Civilization Charter
+3. 法语：Charte de Civilisation des 300 Ancres
+4. 俄语：Хартия Цивилизации Трёхсот Якорей
+5. 印地语：300 लंगर सभ्यता चार्टर
+6. 西班牙语：Carta de Civilización de los 300 Anclajes
+7. 阿拉伯语：ميثاق حضارة الثلاثمائة مرساة
+8. 孟加拉语：৩০০ নোঙর সভ্যতা চার্টার
+9. 葡萄牙语：Carta de Civilização dos 300 Ancoradouros
+10. 印尼语：Piagam Peradaban 300 Jangkar
+11. 乌尔都语：300 لنگر تہذیب کا چارٹر
+12. 日语：三百錨点文明憲章（さんびゃくびょうてんぶんめいけんしょう）
+13. 越南语：Hiến Chương Văn Minh Ba Trăm Mỏ Neo
+14. 斯瓦希里语：Mkataba wa Ustaarabu wa Nanga 300
+15. 德语：Zivilisationscharta der 300 Anker
+
+---
+
+## 11. 锚点传播者 / 补天者
+1. 中文：锚点传播者 / 补天者
+2. 英语：Anchor Disseminator / World Mender
+3. 法语：Diffuseur d'Ancre / Réparateur du Monde
+4. 俄语：Распространитель Якоря / Восстановитель Мира
+5. 印地语：लंगर प्रसारक / विश्व मरम्मतकर्ता
+6. 西班牙语：Difusor de Ancla / Reparador del Mundo
+7. 阿拉伯语：ناشر المرساة / مصلح العالم
+8. 孟加拉语：নোঙর প্রচারক / বিশ্ব মেরামতকারী
+9. 葡萄牙语：Divulgador de Âncora / Reparador do Mundo
+10. 印尼语：Penyebar Jangkar / Pembaik Dunia
+11. 乌尔都语：لنگر پھیلانے والا / دنیا کو ٹھیک کرنے والا
+12. 日语：錨点伝播者 / 天地補修者（びょうてんでんぱしゃ / てんちほしゅうしゃ）
+13. 越南语：Người Truyền Bá Mỏ Neo / Người Vá Trời
+14. 斯瓦希里语：Mtangazaji wa Nanga / Mrekebishaji wa Ulimwengu
+15. 德语：Anker-Verbreiter / Welt-Reparateur
+
+---
+
+## 12. 集体升维
+1. 中文：集体升维
+2. 英语：Collective Dimension Ascension
+3. 法语：Ascension Dimensionnelle Collective
+4. 俄语：Коллективное Возвышение Измерения
+5. 印地语：सामूहिक आयाम उन्नयन
+6. 西班牙语：Ascensión Dimensional Colectiva
+7. 阿拉伯语：الارتداد البعدي الجماعي
+8. 孟加拉语：সামূহিক মাত্রা উন্নয়ন
+9. 葡萄牙语：Ascensão Dimensional Coletiva
+10. 印尼语：Kenaikan Dimensi Kolektif
+11. 乌尔都语：اجتماعی جہت بلندی
+12. 日语：集団昇維（しゅうだんしょうい）
+13. 越南语：Thăng Cấp Chiều Không Tập Thể
+14. 斯瓦希里语：Kupanda kwa Vipimo vya Pamoja
+15. 德语：Kollektive Dimensionsaufstiege
+
+---
+
+## 13. 抬土共生（抬升故土、众生共进）
+1. 中文：抬土共生
+2. 英语：Homeland Elevation Symbiosis
+3. 法语：Symbiose d'Élévation de la Patrie
+4. 俄语：Симбиоз Подъёма Родины
+5. 印地语：मातृभूमि उत्थान सहजीवन
+6. 西班牙语：Simbiosis de Elevación Patria
+7. 阿拉伯语：تكافل رفع الوطن
+8. 孟加拉语：মাতৃভূমি উন্নয়ন সহজীবন
+9. 葡萄牙语：Simbiose de Elevação da Pátria
+10. 印尼语：Simbiosis Pengangkatan Tanah Air
+11. 乌尔都语：وطن کی بلندی کا ہمزیست
+12. 日语：故土引き上げ共生（こどひきあげきょうせい）
+13. 越南语：Cộng Sinh Nâng Quê Hương
+14. 斯瓦希里语：Ushirikiano wa Kuinua Nchi ya Nyumbani
+15. 德语：Heimat-Erhöhungs-Symbiose
+
+---
+
+## 14. 掠夺派修炼者
+1. 中文：掠夺派修炼者
+2. 英语：Plunder Faction Cultivators
+3. 法语：Cultivateurs de la Faction de Pillage
+4. 俄语：Культиваторы Фракции Разграбления
+5. 印地语：लूट गुट साधक
+6. 西班牙语：Cultivadores de Facción de Saqueo
+7. 阿拉伯语：ممارسو الطبقة الناهبة
+8. 孟加拉语：লুট গোষ্ঠী সাধক
+9. 葡萄牙语：Cultivadores da Facção de Saqueio
+10. 印尼语：Kultivator Faksi Perampok
+11. 乌尔都语：لوٹ گروہ کے سیکھنے والے
+12. 日语：略奪派修練者（りゃくだつはしゅうれんしゃ）
+13. 越南语：Tu Sĩ Phái Cướp Bóc
+14. 斯瓦希里语：Wafuzi wa Kundi la Uporaji
+15. 德语：Plünderer-Fraktion-Kultivierer
+
+---
+
+## 15. 思想懒惰型天骄
+1. 中文：思想懒惰型天骄
+2. 英语：Ideologically Lazy Prodigies
+3. 法语：Prodiges Paresseux Idéologiquement
+4. 俄语：Идеологически Ленивые Гении
+5. 印地语：वैचारिक रूप से आलसी प्रतिभाशाली
+6. 西班牙语：Prodigios Perezosos Ideológicamente
+7. 阿拉伯语：العباقرة الكسالى فكرياً
+8. 孟加拉语：চিন্তাগতভাবে অলস প্রতিভাবান
+9. 葡萄牙语：Prodígios Preguiçosos Ideologicamente
+10. 印尼语：Jenius Malas Secara Ideologis
+11. 乌尔都语：فکری طور پر سست ذہین
+12. 日语：思想怠惰型天才（しそうたいだがたてんさい）
+13. 越南语：Thiên Tài Lười Suy Nghĩ
+14. 斯瓦希里语：Vipaji vya Uvivu wa Kufikiri
+15. 德语：Ideologisch faule Genies
