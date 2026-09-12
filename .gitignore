@@ -1,0 +1,18 @@
+# 依赖与本地缓存（不入库）
+node_modules/
+.vitepress/cache/
+npm-debug.log*
+
+# 调试/临时残留（不入库）
+.repro2/
+preview.log
+download.txt
+ru_list.txt
+新建 文本文档.txt
+
+# EdgeOne 本地构建产物（云端会自己构建，无需入库）
+dist/
+
+# 构建产物（不入库，由 CI/CD 或本地按需构建）
+site/
+docs/.vitepress/dist/

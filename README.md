@@ -1,27 +1,140 @@
-# 万灵衡锚本源宙｜文库档案
-> 英文：Wanling-Hengmao Origin Universe Archive
+# 万灵衡锚本源宙｜多语种文库档案
 
-## 简介
-这是一套原创诸天共生世界观设定集，核心为**锚点共生文明**，区别于传统玄幻掠夺式修炼体系。
-不再是单一主角掠夺资源、独自超脱，而是万族同心，300套修炼体系联动，共享知识，反哺天地，集体升维。
-星球、生灵、宇宙本身都拥有进化的道路，打通多元宇宙，实现万族共同超脱，没有纪元大劫，不靠杀伐掠夺。
-
-## 仓库内容
-- 世界观公理、底层法则
-- 多语种翻译文稿（中文、英文、葡语、日语、德语等）
-- 同人推演、诸天跨界设定（斗罗、遮天、完美世界等IP共生线推演）
-- 推广文稿、世界观看板与传播素材
-
-## 核心理念
-单人超脱存在天花板，上限被所在宇宙存量资源锁死。
-锚点共生文明，把修炼的选择权还给所有生灵，不断刷新宇宙天花板，持续开发增量，文明光辉播撒多元宇宙。
+> **Wanling-Hengmao Origin Universe Archive**
+> 锚点共生文明 · 万族共和 · 集体升维
 
 ---
-# English Introduction
-This archive records the original worldview of the Wanling-Hengmao Origin Universe.
-The core concept is the **Anchor Symbiosis Civilization**, different from the plunder-based cultivation system in traditional xianxia novels.
 
-Instead of a single protagonist seizing resources for personal transcendence, all races unite.
-With over 300 cultivation systems linked together, beings share knowledge, nourish the world, and ascend collectively.
-Planets, living creatures, even universes themselves can evolve.
-We open paths across the multiverse and achieve transcendence for all races, without catastrophic epochs or endless wars.
+## 项目定位
+
+本仓库是**万灵衡锚本源宙（简称「衡元宙」）**的官方设定档案库，收录一套原创诸天共生世界观的完整设定文稿。
+
+核心区别于传统玄幻掠夺式修炼体系：不再是单一主角掠夺资源、独自超脱，而是**万族同心，300 套修炼体系联动，共享知识，反哺天地，集体升维**。星球、生灵、宇宙本身都拥有进化的道路，打通多元宇宙，实现万族共同超脱。
+
+---
+
+## 15 语种文库
+
+本仓库提供 **15 种语言**的完整译文，每种语言 100 篇设定文档，覆盖全球主要人口语种：
+
+| 序号 | 语种代码 | 语言名称 | 文档数 | 目录 |
+|:---:|:---:|:---|:---:|:---|
+| 1 | `zh` | 中文（原文） | 100 | `docs/zh/` |
+| 2 | `en` | English 英语 | 100 | `docs/en/` |
+| 3 | `fr` | Français 法语 | 100 | `docs/fr/` |
+| 4 | `ru` | Русский 俄语 | 100 | `docs/ru/` |
+| 5 | `hi` | हिन्दी 印地语 | 100 | `docs/hi/` |
+| 6 | `es` | Español 西班牙语 | 100 | `docs/es/` |
+| 7 | `ar` | العربية 阿拉伯语 | 100 | `docs/ar/` |
+| 8 | `bn` | বাংলা 孟加拉语 | 100 | `docs/bn/` |
+| 9 | `pt` | Português 葡萄牙语 | 100 | `docs/pt/` |
+| 10 | `id` | Bahasa Indonesia 印尼语 | 100 | `docs/id/` |
+| 11 | `ur` | اردو 乌尔都语 | 100 | `docs/ur/` |
+| 12 | `ja` | 日本語 日语 | 100 | `docs/ja/` |
+| 13 | `vi` | Tiếng Việt 越南语 | 100 | `docs/vi/` |
+| 14 | `sw` | Kiswahili 斯瓦希里语 | 100 | `docs/sw/` |
+| 15 | `de` | Deutsch 德语 | 100 | `docs/de/` |
+
+> **合计：15 语种 × 100 篇 = 1500 篇译文 + 中文原文 100 篇 = 1600 篇核心设定文档**
+
+阿拉伯语、印地语、乌尔都语保留原生从右向左（RTL）文本格式。
+
+---
+
+## 仓库目录结构
+
+```
+wanling-hengmao-origin-universe-archive/
+├── README.md                          # 仓库首页（本文件）
+├── package.json                       # 项目配置（VitePress 站点构建）
+├── .gitignore                         # Git 忽略规则
+├── scripts/                           # 构建与维护脚本
+│   ├── check-markdown.ps1
+│   ├── check-sitedata.cjs
+│   ├── edgeone-build.mjs
+│   ├── gen-dashboard-status.mjs
+│   └── sync-constitution.mjs
+└── docs/                              # 全部文档归档
+    ├── glossary.md                    # 15 语种术语对照表（世界观专有名词锁定）
+    ├── index.md                       # 站点首页
+    ├── law-core.md                    # 律法核心文档
+    ├── DEPLOY_GUIDE.md               # 部署指南
+    ├── .vitepress/                    # VitePress 站点配置
+    ├── zh/                            # 中文原文（00–99）
+    ├── en/                            # 英语译文（00–99）
+    ├── fr/                            # 法语译文（00–99）
+    ├── ru/                            # 俄语译文（00–99）
+    ├── hi/                            # 印地语译文（00–99）
+    ├── es/                            # 西班牙语译文（00–99）
+    ├── ar/                            # 阿拉伯语译文（00–99）
+    ├── bn/                            # 孟加拉语译文（00–99）
+    ├── pt/                            # 葡萄牙语译文（00–99）
+    ├── id/                            # 印尼语译文（00–99）
+    ├── ur/                            # 乌尔都语译文（00–99）
+    ├── ja/                            # 日语译文（00–99）
+    ├── vi/                            # 越南语译文（00–99）
+    ├── sw/                            # 斯瓦希里语译文（00–99）
+    ├── de/                            # 德语译文（00–99）
+    ├── constitution/                  # 共生宪法与律法补充文档（105 篇）
+    ├── multiverse/                    # 多元宇宙角色共生线推演（6 篇）
+    ├── sandbox/                       # 实验性设定（1 篇）
+    ├── dashboard/                     # 世界观看板
+    └── public/                        # 静态资源（Logo、图标等）
+```
+
+---
+
+## 文档编号体系
+
+每篇文档以两位数字编号（00–99），按主题分卷：
+
+| 编号范围 | 主题分卷 |
+|:---:|:---|
+| 00–09 | 宇宙总览与核心宣言 |
+| 10–19 | 修炼体系与能量法则 |
+| 20–29 | 锚点结构与共生网络 |
+| 30–39 | 文明分型与社会体系 |
+| 40–49 | 共生宪法与律法体系 |
+| 50–59 | 万族谱系与生命伦理 |
+| 60–69 | 技术体系与工程实现 |
+| 70–79 | 纪元划分与编年史 |
+| 80–89 | 位面理论与跨位面伦理 |
+| 90–99 | 索引、名录、FAQ 与维护说明 |
+
+---
+
+## 术语表
+
+`docs/glossary.md` 是全仓库的**权威术语对照表**，覆盖 15 语种，锁定所有世界观专有名词的标准译法：
+
+- 宇宙名：万灵衡锚本源宙 / 衡元宙
+- 核心概念：锚点共生文明、阿赖耶锚点、共生度、反掠夺主义
+- 修炼体系：三百套本源修炼体系、推演迭代、生命循环、空间法理调度
+- 哲学概念：万族共和、集体升维、增量开发、因果点
+
+所有语种译文严格遵循术语表，确保世界观名词前后统一、不出现翻译冲突。
+
+---
+
+## 核心理念
+
+> 单人超脱存在天花板，上限被所在宇宙存量资源锁死。
+> 锚点共生文明，把修炼的选择权还给所有生灵，不断刷新宇宙天花板，持续开发增量，文明光辉播撒多元宇宙。
+
+- **反掠夺主义**：不以杀伐掠夺为修炼路径，开发增量而非消耗存量
+- **万族共和**：所有生灵拥有平等进化资格，打破强者对知识的垄断
+- **集体升维**：强者不再独自飞升，而是抬着家乡一起向前进化
+- **因果自律**：跨位面操作严格报备，先观测后有限干涉，只回传知识不扰动因果
+
+---
+
+## 镜像仓库
+
+- **GitHub（主仓库）**：https://github.com/faker210/wanling-hengmao-origin-universe-archive
+- **Gitee（镜像）**：https://gitee.com/lihanlin-wanling/wanling-hengmao-origin-universe-archive
+
+---
+
+## 许可证
+
+本仓库世界观设定、术语体系及原创文本为作者所有，转载请注明出处。
