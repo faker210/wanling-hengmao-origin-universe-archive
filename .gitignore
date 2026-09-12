@@ -10,8 +10,9 @@ download.txt
 ru_list.txt
 新建 文本文档.txt
 
-# EdgeOne 本地构建产物（云端会自己构建，无需入库；如需方案B本地打包请用本目录）
+# EdgeOne 本地构建产物（云端会自己构建，无需入库）
 dist/
 
-# 注意：site/（构建产物）与 docs/.vitepress/dist 需要提交到仓库，
-# Gitee Pages 免费版不支持构建命令，直接部署构建产物。
+# 构建产物（不入库，由 CI/CD 或本地按需构建）
+site/
+docs/.vitepress/dist/
