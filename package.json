@@ -1,16 +1,14 @@
 {
-  "name": "wanling-hengmao-origin-docs",
+  "name": "hengyuan-cosmos-docs",
   "version": "1.0.0",
-  "description": "衡元宙 · 锚点共生文明设定文库（VitePress 静态站点，适配 Gitee Pages）",
+  "description": "衡元宙 - 锚点共生文明 官方设定文库 | Hengyuan Cosmos Official Lore Library",
   "type": "module",
-  "private": true,
   "scripts": {
-    "docs:dev": "node scripts/sync-constitution.mjs && vitepress dev docs",
-    "docs:build": "node scripts/sync-constitution.mjs && vitepress build docs",
-    "docs:preview": "vitepress preview docs",
-    "build": "node scripts/edgeone-build.mjs"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "vitepress": "^1.6.0"
+    "vitepress": "^1.3.0"
   }
 }

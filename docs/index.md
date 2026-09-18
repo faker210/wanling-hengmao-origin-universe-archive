@@ -1,125 +1,75 @@
 ---
 layout: home
-
 hero:
   name: 衡元宙
-  text: 锚点共生文明 · 官方设定文库
-  tagline: 反掠夺 · 倡共生 —— 把命运与进化的选择权，交还给众生。<br/>万灵衡锚本源宙，欢迎每一位修行者。
-  image:
-    src: /anchor-mark.svg
-    alt: 衡元宙锚点纹章
+  text: 锚点共生文明 · 15语种官方设定文库
+  tagline: 反掠夺 · 倡共生 —— 把命运与进化的选择权，交还给众生。
   actions:
     - theme: brand
-      text: 开始阅读宪章
-      link: /constitution/00-衡元宙宇宙总览
+      text: 中文入口
+      link: /zh/
     - theme: alt
-      text: 路线对比沙盘
-      link: /sandbox/
+      text: English
+      link: /en/
     - theme: alt
-      text: 诸天角色推演
-      link: /multiverse/
-
+      text: Français
+      link: /fr/
+    - theme: alt
+      text: Русский
+      link: /ru/
+    - theme: alt
+      text: हिन्दी
+      link: /hi/
+    - theme: alt
+      text: Español
+      link: /es/
+    - theme: alt
+      text: العربية
+      link: /ar/
+    - theme: alt
+      text: বাংলা
+      link: /bn/
+    - theme: alt
+      text: Português
+      link: /pt/
+    - theme: alt
+      text: Indonesia
+      link: /id/
+    - theme: alt
+      text: اردو
+      link: /ur/
+    - theme: alt
+      text: 日本語
+      link: /ja/
+    - theme: alt
+      text: Tiếng Việt
+      link: /vi/
+    - theme: alt
+      text: Kiswahili
+      link: /sw/
+    - theme: alt
+      text: Deutsch
+      link: /de/
 features:
+  - icon: 🌐
+    title: 15语种文库
+    details: 中、英、法、俄、印地、西、阿、孟、葡、印尼、乌尔都、日、越、斯瓦希里、德，每语种100篇完整译文。
   - icon: 📜
     title: 核心宪章
-    details: 3 份核心宪章文档（共生文明宣言 · 锚点本源定义 · 共生文明宪章），配反掠夺主义核心论纲，构成文明纲领。
+    details: 锚点共生文明宣言、锚点本源定义与本质、共生文明宪章，配反掠夺主义核心论纲。
   - icon: 🗂️
     title: 三百套体系
     details: 六大类三百套本源修炼体系全景索引：推演迭代、生命循环、空间法理调度、意识升维、共生网络、应用工程。
   - icon: 🔍
     title: 全文检索
     details: 内置本地全文搜索，无需后端，秒级定位任意设定条目与法律条文。
-  - icon: 🌐
-    title: 多语种文库
-    details: 8 语种一键切换（简中 / 英 / 法 / 俄 / 印地 / 西 / 阿 / 日），译文与中文版同步浏览。
-  - icon: 💡
-    title: 术语弹窗
-    details: 鼠标悬浮专有名词（锚点、阿赖耶、坐三望二、虚拟增量沙盘……）即弹出词条释义。
-  - icon: 🧭
-    title: 诸天推演
-    details: 以共生文明框架推演诸天角色：带土、柱间、斑、叶凡、石昊……谁走掠夺路，谁具共生心。
 ---
 
-<div class="stats-strip">
-  <div class="stat-cell"><span class="num">100</span><span class="cap">份宪章文档</span></div>
-  <div class="stat-cell"><span class="num">10</span><span class="cap">大设定模块</span></div>
-  <div class="stat-cell"><span class="num">300</span><span class="cap">套本源修炼体系</span></div>
-  <div class="stat-cell"><span class="num">8</span><span class="cap">语种文库</span></div>
-  <div class="stat-cell"><span class="num">4</span><span class="cap">阶段升维路径</span></div>
-</div>
+<script setup>
+import { onMounted } from 'vue'
+import { useRouter } from 'vitepress'
+const router = useRouter()
+onMounted(() => { setTimeout(() => router.go('/zh/'), 1500) })
+</script>
 
-## 衡元宙是什么
-
-**万灵衡锚本源宙**，简称**衡元宙**，是**锚点共生文明**所栖居与治理的宇宙全域。它并非单一物理空间，而是由四个层级共同构成的复合存在体：
-
-<div class="layers-grid">
-  <div class="layer-item"><strong>物质位面</strong>遵循物理法则的实体世界，人族及多数物质生命栖居于此。</div>
-  <div class="layer-item"><strong>能量层</strong>高浓度能量聚集区域，法则呈半显性，能量生命与灵体活跃其中。</div>
-  <div class="layer-item"><strong>意识域</strong>集体意识与个体意识交汇的信息空间，是意识体与高维存在的领域。</div>
-  <div class="layer-item"><strong>法则网络</strong>宇宙本源法则的运行底层，是**锚点**的根基层，贯穿整个宇宙。</div>
-</div>
-
-衡元宙的核心特征在于**可进化性**：与传统掠夺式宇宙观将宇宙视为有限资源猎场不同，衡元宙认为宇宙本身是一个生命体，其熵增过程可以通过有序的**共生网络**得到逆转与调控。**锚点**作为跨层级连接枢纽，把分散的个体能量汇聚为有序的进化洪流，最终实现宇宙整体的**升维**。
-
-## 两条文明路线
-
-衡元宙的根本矛盾，是**掠夺与共生**的矛盾。同处一个宇宙，两条路线将走向完全不同的终局：
-
-<div class="route-compare">
-
-<div class="route-card route-predatory">
-
-<span class="route-tag">掠夺型文明 · 旧日之路</span>
-
-<h3>掠夺式修炼体系</h3>
-
-- **成长逻辑**：吞噬掠夺弱者能量、气运甚至本源，短期极速跃升
-- **资源逻辑**：宇宙是有限猎场，强者进阶以弱者消亡为代价（掠夺式资源涸竭）
-- **社会形态**：宗门垄断法门、位面殖民、精神奴役、阶层固化，依靠掠夺维系
-- **效率天花板**：能量带原主意残痕、反抗成本高、本源不纯，掠夺之路终有上限
-- **文明终局**：熵增加速 → 文明断层频发 → 掠夺耗尽宇宙进化潜能
-
-</div>
-
-<div class="route-card route-symbiotic">
-
-<span class="route-tag">共生型文明 · 衡元宙之路</span>
-
-<h3>锚点共生文明</h3>
-
-- **成长逻辑**：开放三百套本源修炼体系，多劳多得、自生自长、人人有路
-- **资源逻辑**：联产承包机制 + 能量循环，做大蛋糕而非切分蛋糕
-- **社会形态**：万族共和 · 共生宪法 · 万族平等 · 双魂伦理
-- **核心战略**：20%激活战略——前期激活两成众生为位面至高强者，带动八成共进
-- **文明终局**：四阶段升维（现实筑基 → 科技赋能 → 意识进化 → 星际共生）
-
-</div>
-
-</div>
-
-> 一句话判别两条路线：**掠夺**让极少数人先升上去，榨干宇宙底蕴；**共生**则让众生一起升维，宇宙跟着同步进化。你可以在[交互沙盘](sandbox/index.md)里亲手拉动参数，推演两种文明的成长曲线、资源逻辑与文明上限。
-
-## 文库速览
-
-| 模块 | 编号 | 内容 |
-|------|------|------|
-| 总纲与核心设定 | 00-09 | 宇宙总览、共生文明宣言、锚点本源定义、共生宪章、反掠夺主义论纲 |
-| 宇宙法则与修炼体系 | 10-19 | 三百套体系总览、本源三基、修炼境界、能量循环、倍增果实 |
-| 锚点机制与共生原理 | 20-29 | 锚点结构与层级、共生网络、联产承包、20%激活战略、共生度评估 |
-| 文明分型与社会制度 | 30-39 | 五种共生文明分型、共生教育、共生医疗、住房与环境保障 |
-| 法律体系与治理框架 | 40-49 | 共生宪法、共生劳动法、消费者保护法、司法体系、权力制衡 |
-| 种族与生命形态 | 50-59 | 万族谱系、奇特生命、奇异能量、黑暗置换体、双魂伦理 |
-| 技术与能量体系 | 60-69 | 倍增果实工程化、复制镜、隔离空间、锚点硬件、跨位面通讯 |
-| 历史纪元与重大事件 | 70-79 | 前锚点时代、锚点觉醒纪元、三百套体系开放、万族共和成立 |
-| 跨位面交互与时间规则 | 80-89 | 位面理论、先观测后有限干涉、考古协议、时间悖论防控 |
-| 附录与参考资料 | 90-99 | 术语词典、三百套体系索引、编年史简表、FAQ、矛盾自查表 |
-
-从 [00-衡元宙宇宙总览](constitution/00-衡元宙宇宙总览.md) 开始，或直接查阅 [90-术语词典](constitution/90-术语词典.md)。
-
-## 使用提示
-
-- **术语弹窗**：正文中的专有名词（如**锚点**、**阿赖耶**、**坐三望二**、**虚拟增量沙盘**）带有虚线标记，鼠标悬浮或键盘聚焦即可查看词条释义。词表可在 `.vitepress/glossary.js` 中自由增删。
-- **全文搜索**：点击右上角搜索框，输入关键词即可检索全站文档。
-- **语言切换**：右上角语言菜单可在 8 语种间切换，译文文档与中文版共用同一套目录结构。
-- **诸天推演**：[诸天角色推演板块](multiverse/index.md) 以共生文明框架复盘火影、遮天、完美世界等诸天角色。
-- **路线沙盘**：[交互式沙盘](sandbox/index.md) 可实时对比**掠夺路线**与**锚点共生路线**的成长曲线与文明上限。
+> 页面将在 1.5 秒后自动跳转到中文首页，或点击上方按钮选择您的语言。
